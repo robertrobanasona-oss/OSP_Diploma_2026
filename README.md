@@ -58,9 +58,9 @@ Once merged, your name appears in the official list. ✅
 | Column | Description | Example |
 |--------|-------------|---------|
 | NO | Sequential row number | `2` |
-| NAME | Full name in **UPPERCASE** | `JANE DOE` |
-| INDEX | Your index number (digits only) | `123457` |
-| DEPARTMENT | Your department | `Computer Science` |
+| NAME  MangokMaditMangok|
+| INDEX |22-DCS-089 |
+| DEPARTMENT |`Computer Science` |
 
 ### ✅ Correct
 ```
